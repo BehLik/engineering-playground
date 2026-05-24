@@ -16,6 +16,7 @@ This repository may include projects built with:
 
 - Kotlin / Android
 - C#
+- GO
 - C
 - Python
 - PHP
